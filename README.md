@@ -1,4 +1,4 @@
-# Grocery-Dataset
+# Machine Learning Engineer Nanodegree 2019
 ## Grocery item image recognition using a custom dataset
 
 This repository contains the materials accompanying my Capstone project for the Machine Learning Engineer Nanodegree:
