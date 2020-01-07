@@ -3,6 +3,8 @@
 
 This repository contains the materials accompanying my Capstone project for the Machine Learning Engineer Nanodegree.
 
+### Summary: 
+
 ### Software and libraries: 
 OS: Windows `10` <br>
 Language: Python `3.7.3` <br>
