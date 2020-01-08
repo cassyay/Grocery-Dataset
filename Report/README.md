@@ -39,7 +39,7 @@
 
 - [Github: pytorch custom dataset examples](https://github.com/utkuozbulak/pytorch-custom-dataset-examples/blob/master/README.md)
 
-### Creating a Neural Network:
+### Finding a CNN:
 
 - [Pytorch: Training a classifier](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html) 
 
