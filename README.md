@@ -33,7 +33,7 @@ In this project, I step through several steps of the machine learning workflow:
     
 ### Datasets folder
 - [Fruits 360 dataset](https://github.com/Horea94/Fruit-Images-Dataset)
-- Freiberg Grocery dataset: [https://github.com/PhilJd/freiburg_groceries_dataset](https://github.com/PhilJd/freiburg_groceries_dataset)
+- [Freiberg Grocery dataset](https://github.com/PhilJd/freiburg_groceries_dataset)
 
 ### Report folder
 - Technical write-up of the project 
