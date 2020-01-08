@@ -20,7 +20,10 @@
 ## Resources 
 
 
-### Creating a custom dataset: 
+### Creating a custom dataset:
+- [GitHub Image Augmentation Library](https://github.com/aleju/imgaug)
+
+- [Stack Overflow: Altering images](https://stackoverflow.com/questions/41625252/altering-trained-images-to-train-neural-network)
 
 - [Towards Data Science: Building efficient custom datasets in pytorch](https://towardsdatascience.com/building-efficient-custom-datasets-in-pytorch-2563b946fd9f)
 
