@@ -27,14 +27,12 @@ In this project, I step through several steps of the machine learning workflow:
 
 ### Notebooks folder
 - `Code`: entire codeset, as well as output
-- `Augment` : code to augment images to increase dataset size 
-- `Merge`: code to combine and clean datasets
-- `Transform`: code to process custom dataset and transform images
+- `Preprocess`: code to augment images, merge datasets, and transform images
 - `Train`: code to build and train model
 - `Test`: code to test accuracy of entire model, and of each class
     
 ### Datasets folder
-- Fruits 360 dataset: [https://github.com/Horea94/Fruit-Images-Dataset](https://github.com/Horea94/Fruit-Images-Dataset)
+- [Fruits 360 dataset](https://github.com/Horea94/Fruit-Images-Dataset)
 - Freiberg Grocery dataset: [https://github.com/PhilJd/freiburg_groceries_dataset](https://github.com/PhilJd/freiburg_groceries_dataset)
 
 ### Report folder
