@@ -30,12 +30,12 @@ In this project, I step through several steps of the machine learning workflow:
 - [Freiberg Grocery dataset](https://github.com/PhilJd/freiburg_groceries_dataset)
 
 ### Notebooks folder
-- `ML Nanodegee Capstone-Benchmark.ipny`: entire code and results with ResNet50, on Jupyter
-- `ML Nanodegree Capstone-Comparison.ipny`: entire code and results with ResNet18, on Jupyter
+- `ML Nanodegee Capstone-Benchmark.ipnynb`: entire code and results with ResNet50, on Jupyter
+- `ML Nanodegree Capstone-Comparison.ipnynb`: entire code and results with ResNet18, on Jupyter
 - `Preprocess.py`: code to augment images, merge datasets, and transform images
 - `Train.py`: code to build and train model
 - `Test.py`: code to test accuracy of entire model, and of each class
 
 ### Report folder
 - Technical write-up of the project 
-- README file with helpful resources
+- Original proposal
