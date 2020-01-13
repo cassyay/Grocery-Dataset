@@ -18,10 +18,10 @@ One area that is deeply entrenched in an average person’s daily life is grocer
 
 ### Project Outline
 In this project, I step through several steps of the machine learning workflow:
-- Obtain customized dataset of images by merging datasets and augmenting images 
+- Create customized dataset of images by merging datasets and augmenting images 
 - Clean, load, and preprocess images 
-- Train the classifier using pre-trained models
-- Predict image classification with trained model
+- Train with pre-trained models ResNet50 as benchmark model, and ResNet18 as comparison
+- Predict image classification with pre-trained model
 
 ## Content
 
@@ -30,10 +30,11 @@ In this project, I step through several steps of the machine learning workflow:
 - [Freiberg Grocery dataset](https://github.com/PhilJd/freiburg_groceries_dataset)
 
 ### Notebooks folder
-- `Code`: entire codeset, as well as output
-- `Preprocess`: code to augment images, merge datasets, and transform images
-- `Train`: code to build and train model
-- `Test`: code to test accuracy of entire model, and of each class
+- `ML Nanodegee Capstone-Benchmark.ipny`: entire code and results with ResNet50, on Jupyter
+- `ML Nanodegree Capstone-Comparison.ipny`: entire code and results with ResNet18, on Jupyter
+- `Preprocess.py`: code to augment images, merge datasets, and transform images
+- `Train.py`: code to build and train model
+- `Test.py`: code to test accuracy of entire model, and of each class
 
 ### Report folder
 - Technical write-up of the project 
