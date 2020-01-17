@@ -1,4 +1,6 @@
-# Machine Learning Engineer Nanodegree 2019
+#       Machine Learning Engineer Nanodegree 2020
+[![Certificate.png](https://i.postimg.cc/MH2ys5gp/Certificate.png)](https://postimg.cc/5YgYyBxh)
+
 ## Grocery item image recognition using a custom dataset
 
 This repository contains the materials accompanying my Capstone project for the Machine Learning Engineer Nanodegree.
@@ -8,8 +10,10 @@ This repository contains the materials accompanying my Capstone project for the 
 ### Software and libraries 
 OS: Windows `10` <br>
 Language: Python `3.7.3` <br>
-Libraries: Pytorch `0.4.1`, Matplotlib `3.1.1` Numpy `1.16.4` <br>
+Libraries: Pytorch `0.4.1`, Matplotlib `3.1.1`, Numpy `1.16.4`, imgaug `0.3.0` <br>
 Framework: Jupyter Notebook <br>
+Models: ResNet50, DenseNet121 <br>
+[Full Report](https://github.com/cassyay/Grocery-Dataset/blob/master/Report/ML-Capstone-report.pdf)
 
 ### Motivation
 Automation is one of the largest growing applications in AI, with the goal of replacing tedious jobs and reducing time and energy devoted to mundane daily tasks.  Spam filters for email, warehouse sorting robots, and even more ambitious projects such as data analytics or self-driving cars are all examples of how we are increasingly relying more heavily on automation in our personal lives and as a society.  Using machine learning makes it possible for these tools to navigate through dynamic and ambiguous situations by identifying patterns among each unique scenario that is encountered.   
@@ -18,10 +22,10 @@ One area that is deeply entrenched in an average person’s daily life is grocer
 
 ### Project Outline
 In this project, I step through several steps of the machine learning workflow:
-- Create customized dataset of images by merging datasets and augmenting images 
+- Create customized dataset of images by merging existing datasets and augmenting images 
 - Clean, load, and preprocess images 
-- Train with pre-trained models ResNet50 as benchmark model, and ResNet18 as comparison
-- Predict image classification with pre-trained model
+- Train with pre-trained models ResNet50 as benchmark model, and DenseNet121 as comparison
+- Predict image classification with pre-trained models
 
 ## Content
 
@@ -31,11 +35,8 @@ In this project, I step through several steps of the machine learning workflow:
 
 ### Notebooks folder
 - `ML Nanodegee Capstone-Benchmark.ipnynb`: entire code and results with ResNet50, on Jupyter
-- `ML Nanodegree Capstone-Comparison.ipnynb`: entire code and results with ResNet18, on Jupyter
-- `Preprocess.py`: code to augment images, merge datasets, and transform images
-- `Train.py`: code to build and train model
-- `Test.py`: code to test accuracy of entire model, and of each class
+- `ML Nanodegree Capstone-DenseNet121.ipnynb`: entire code and results with DenseNet121, on Jupyter
 
 ### Report folder
-- Technical write-up of the project 
-- Original proposal
+- Technical report of the project 
+- README with table of contents and helpful resources
